@@ -1,1 +1,1 @@
-# Certificates
+# Artificial Intelligence Certificate
